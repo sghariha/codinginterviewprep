@@ -2,6 +2,12 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - CoinChange",
+      "request": "launch",
+      "mainClass": "CoinChange"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - Search",
       "request": "launch",
       "mainClass": "Search"
