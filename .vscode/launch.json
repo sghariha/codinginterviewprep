@@ -2,6 +2,12 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - Knapsack",
+      "request": "launch",
+      "mainClass": "Knapsack"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - CoinChange",
       "request": "launch",
       "mainClass": "CoinChange"
